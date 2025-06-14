@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm H-4sh 👋</h1>
+<h1 align="center">Hi there, I'm Resen 👋</h1>
 
 <h3 align="center">A passionate developer on a mission to enter the world of Cybersecurity.</h3>
 
@@ -48,13 +48,13 @@
 <h3 align="left">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=H-4sh&show_icons=true&locale=en&layout=compact&theme=dark" alt="h-4sh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3sen&show_icons=true&locale=en&layout=compact&theme=dark" alt="h-4sh" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=H-4sh&show_icons=true&locale=en&theme=dark" alt="h-4sh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=r3sen&show_icons=true&locale=en&theme=dark" alt="h-4sh" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=H-4sh&theme=dark" alt="h-4sh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3sen&theme=dark" alt="h-4sh" />
 </p>
