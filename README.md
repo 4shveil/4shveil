@@ -12,11 +12,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/r3sen">
-    <img src="https://komarev.com/ghpvc/?username=r3sen&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/rse3n">
+    <img src="https://komarev.com/ghpvc/?username=rse3n&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://x.com/H_44sh">
-    <img src="https://img.shields.io/badge/Signal-H_44sh-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
+  <a href="https://x.com/rse3n">
+    <img src="https://img.shields.io/badge/Signal-rse3n-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
   </a>
 </div>
 
