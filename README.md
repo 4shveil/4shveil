@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=H-4sh&theme=darkhub&rank=S,A,B,C" alt="h-4sh" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=H-4sh&theme=darkhub&rank=S,A,B,C" alt="r3sen" /></a>
 </p>
 
 ---
