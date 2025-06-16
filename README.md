@@ -25,7 +25,7 @@
 ### 🧭 `whoami`
 
 <samp>
-I'm <strong>rs3en</strong> — an aspiring cybersecurity professional with a passion for ethical hacking, codecraft, and digital defense.
+I'm <strong>rse3n</strong> — an aspiring cybersecurity professional with a passion for ethical hacking, codecraft, and digital defense.
 
 Inspired by King Baldwin IV’s perseverance and the Jedi’s vigilance, I walk the path of knowledge to protect the realm of cyberspace. My work is a chronicle of discipline, experimentation, and an unwavering pursuit of mastery.
 </samp>
