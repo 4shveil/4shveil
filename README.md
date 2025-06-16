@@ -81,8 +81,7 @@ My training is structured in phases, each building upon the last to achieve mast
 - 🎯 **Phase I: The Forge (In Progress)**
   - Master Python for scripting, automation, and tool development.
   - Build a deep understanding of core networking principles (TCP/IP, DNS, HTTP).
-  - **Project:** `Python-Cyber-Forge` - A collection of custom security scripts.
-
+  - **Project:** `Python-Cyber-Forge` - A collection of all I did during 100 days of code from Dr. Yu, also some custom cybersec tools
 - 🎯 **Phase II: The Web Fortress**
   - Achieve full-stack proficiency (MERN stack, PHP) to understand web applications inside and out.
   - Master the OWASP Top 10 and common web exploitation techniques.
