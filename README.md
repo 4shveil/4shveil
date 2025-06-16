@@ -15,8 +15,8 @@
   <a href="https://github.com/rse3n">
     <img src="https://komarev.com/ghpvc/?username=rse3n&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://x.com/rse3n">
-    <img src="https://img.shields.io/badge/Signal-rse3n-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
+  <a href="https://x.com/r_se3n">
+    <img src="https://img.shields.io/badge/Signal-r_se3n-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 ### 🧭 `whoami`
 
 <samp>
-I'm <strong>rse3n</strong> — an aspiring cybersecurity professional with a passion for ethical hacking, codecraft, and digital defense.
+I'm <strong>r_se3n</strong> — an aspiring cybersecurity professional with a passion for ethical hacking, codecraft, and digital defense.
 
 Inspired by King Baldwin IV’s perseverance and the Jedi’s vigilance, I walk the path of knowledge to protect the realm of cyberspace. My work is a chronicle of discipline, experimentation, and an unwavering pursuit of mastery.
 </samp>
