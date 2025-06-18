@@ -96,11 +96,11 @@ Each stage is a training arc—facing challenges, gaining clarity, and preparing
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r3sen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rse3n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=r3sen&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rse3n&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r3sen&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rse3n&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
