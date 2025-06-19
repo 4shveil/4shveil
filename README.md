@@ -12,11 +12,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/rse3n">
-    <img src="https://komarev.com/ghpvc/?username=rse3n&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/d0diz">
+    <img src="https://komarev.com/ghpvc/?username=d0diz&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://x.com/r_se3n">
-    <img src="https://img.shields.io/badge/Signal-r_se3n-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
+  <a href="https://x.com/d0dizz">
+    <img src="https://img.shields.io/badge/Signal-d0diz-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 ### 🧭 `whoami`
 
 <samp>
-I'm <strong>r_se3n</strong> — an aspiring cybersecurity professional with a passion for ethical hacking, codecraft, and digital defense.
+I'm <strong>dudz</strong> — an aspiring cybersecurity professional with a passion for ethical hacking, codecraft, and digital defense.
 
 Inspired by King Baldwin IV’s perseverance and the Jedi’s vigilance, I walk the path of knowledge to protect the realm of cyberspace. My work is a chronicle of discipline, experimentation, and an unwavering pursuit of mastery.
 </samp>
@@ -96,11 +96,11 @@ Each stage is a training arc—facing challenges, gaining clarity, and preparing
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rse3n&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d0diz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rse3n&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d0diz&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rse3n&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d0diz&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
