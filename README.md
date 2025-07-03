@@ -12,8 +12,8 @@ Y8888D' ~Y8888P' Y8888D' d88888P
 </div>
 
 <div align="center">
-  <a href="https://github.com/Dud-z">
-    <img src="https://komarev.com/ghpvc/?username=Dud-z&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/D0diz">
+    <img src="https://komarev.com/ghpvc/?username=D0diz&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://x.com/Duud_z">
     <img src="https://img.shields.io/badge/Signal-Duud_z-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
@@ -96,11 +96,11 @@ Each stage is a training arc—facing challenges, gaining clarity, and preparing
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dud-z&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D0diz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dud-z&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=D0diz&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dud-z&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D0diz&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
