@@ -1,11 +1,11 @@
 <div align="center">
   <pre>
-d8888b. db    db d8888b. d88888D 
-88  `8D 88    88 88  `8D YP  d8' 
-88   88 88    88 88   88    d8'  
-88   88 88    88 88   88   d8'   
-88  .8D 88b  d88 88  .8D  d8' db 
-Y8888D' ~Y8888P' Y8888D' d88888P 
+  _   _____       _  __
+ | |_|___ / _ __ | |/ /
+ | __| |_ \| '_ \| ' / 
+ | |_ ___) | | | | . \ 
+  \__|____/|_| |_|_|\_\
+                       
   </pre>
 
   <p><samp><strong>Cybersecurity Apprentice | Ethical Hacker in Training</strong></samp></p>
