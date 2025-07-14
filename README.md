@@ -17,8 +17,8 @@
   <a href="https://github.com/t3n-K">
     <img src="https://komarev.com/ghpvc/?username=t3n-K&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://x.com/Duud_z">
-    <img src="https://img.shields.io/badge/Signal-Duud_z-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
+  <a href="https://x.com/1Ten_k">
+    <img src="https://img.shields.io/badge/Signal-TenK-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
   </a>
 </div>
 
@@ -102,7 +102,7 @@ Each stage is a training arc—facing challenges, gaining clarity, and preparing
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=t3n-K&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t3n-K&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=t3n-K&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
