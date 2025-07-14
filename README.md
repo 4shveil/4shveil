@@ -102,7 +102,6 @@ Each stage is a training arc—facing challenges, gaining clarity, and preparing
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=t3n-K&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=t3n-K&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
