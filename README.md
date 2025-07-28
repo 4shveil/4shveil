@@ -1,21 +1,10 @@
-<div align="center">
-  <pre>
-(`-')           <-. (`-')_<-.(`-')  
-( OO).->           \( OO) )__( OO)  
-/    '._  .----.,--./ ,--/'-'. ,--. 
-|'--...__)_.-,  |   \ |  ||  .'   / 
-`--.  .--' |_  <|  . '|  |)      /) 
-   |  |  .-. \  |  |\    ||  .   '  
-   |  |  \ `-'  /  | \   ||  |\   \ 
-   `--'   `---''`--'  `--'`--' '--' 
-  </pre>
 
   <p><samp><strong>Cybersecurity Apprentice | Ethical Hacker in Training</strong></samp></p>
 </div>
 
 <div align="center">
-  <a href="https://github.com/t3n-K">
-    <img src="https://komarev.com/ghpvc/?username=t3n-K&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/excentrall">
+    <img src="https://komarev.com/ghpvc/?username=excentrall&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://x.com/1Ten_k">
     <img src="https://img.shields.io/badge/Signal-TenK-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
@@ -27,7 +16,7 @@
 ### 🧭 `whoami`
 
 <samp>
-I'm <strong>dudz</strong> — an aspiring cybersecurity professional with a passion for ethical hacking, codecraft, and digital defense.
+I'm <strong>Ex</strong> — an aspiring cybersecurity professional with a passion for ethical hacking, codecraft, and digital defense.
 
 Inspired by King Baldwin IV’s perseverance and the Jedi’s vigilance, I walk the path of knowledge to protect the realm of cyberspace. My work is a chronicle of discipline, experimentation, and an unwavering pursuit of mastery.
 </samp>
@@ -98,9 +87,9 @@ Each stage is a training arc—facing challenges, gaining clarity, and preparing
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t3n-K&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=excentrall&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=t3n-K&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=excentrall&show_icons=true&theme=tokyonight&count_private=true" alt="r3sen's Stats"/>
   <br>
 </p>
 
