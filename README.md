@@ -1,11 +1,11 @@
 <div align="center">
   <p><samp><strong>Cybersecurity Apprentice ⚔️ | Ethical Hacker in Training</strong></samp></p>
 
-  <a href="https://github.com/excentrall">
-    <img src="https://komarev.com/ghpvc/?username=excentrall&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/rosebudic">
+    <img src="https://komarev.com/ghpvc/?username=rosebudic&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://x.com/1Ten_k">
-    <img src="https://img.shields.io/badge/Signal-TenK-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
+  <a href="https://x.com/rosebudick">
+    <img src="https://img.shields.io/badge/Signal-rosebudic-1DA1F2?style=flat-square&logo=x" alt="Twitter"/>
   </a>
 </div>
 
@@ -14,9 +14,7 @@
 ### 🧭 `whoami`
 
 <samp>
-I'm <strong>Excentrall</strong> — a cybersecurity enthusiast navigating the shadows of the internet with a white hat.
-
-My journey is inspired by the vigilance of Jedi knights and the unwavering resilience of King Baldwin IV. I believe that in the digital realm, discipline, curiosity, and constant learning are the sharpest blades.
+I'm <strong>Rosebudic</strong> — a cybersecurity enthusiast navigating the shadows of the internet with a white hat.
 </samp>
 
 ---
@@ -77,9 +75,9 @@ I'm currently completing the [100 Days of Code: Python Bootcamp](https://www.ude
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=excentrall&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosebudic&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=excentrall&show_icons=true&theme=tokyonight&count_private=true" alt="Excentrall's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rosebudic&show_icons=true&theme=tokyonight&count_private=true" alt="Excentrall's Stats"/>
 </p>
 
 ---
