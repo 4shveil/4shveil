@@ -4,9 +4,6 @@
   <a href="https://github.com/4shveil">
     <img src="https://komarev.com/ghpvc/?username=4shveil&label=Vectors%20Analyzed&color=10A8C2&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://x.com/4shveil">
-    <img src="https://img.shields.io/badge/Signal-4shveil-1DA1F2?style=flat-square&logo=x" alt="Twitter/X"/>
-  </a>
 </div>
 
 ### 🕶️ `whoami`
